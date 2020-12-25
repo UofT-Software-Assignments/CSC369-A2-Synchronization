@@ -18,7 +18,7 @@ in msg_queue.c, I implemented all functions with the exception of
 - mq_destroy
 - mq_init 
 
-As well structs with the exception of mq_backend where my contributions were the following struct attributes:
+As well as all structs with the exception of mq_backend where my contributions were the following struct attributes:
  - queue_mutex
  - empty
  - no_space
